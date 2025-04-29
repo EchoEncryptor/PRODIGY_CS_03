@@ -77,11 +77,4 @@ password_checker.py       # Main script for evaluating password strength
 
 This project is licensed under the [MIT License](LICENSE).
 
----
 
-Let me know if you’d like to add:
-- A **GUI version** (using Tkinter or PyQt)
-- **Real-time feedback** while typing (interactive mode)
-- Integration with **password breach APIs** like `HaveIBeenPwned`
-
-I'm happy to help extend the functionality!
