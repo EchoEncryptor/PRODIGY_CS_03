@@ -1,7 +1,3 @@
-Here’s a detailed **`README.md`** and project description for your **Password Strength Checker** Python program, ready to use on GitHub:
-
----
-
 # 🔐 Password Strength Checker
 
 ## 📝 Description
